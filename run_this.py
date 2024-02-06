@@ -281,7 +281,7 @@ def interact():
 GPT_MODEL = 'gpt-4'
 
 expertise = '건강관리기기전문가'
-temperature = 0.1
+temperature = 0.0
 
 subject = '인바디 보는 법'
 intro = '* 사실과 다른 정보가 반환되는 경우도 있으니 참고용으로만 활용하시고, 필요한 경우 반드시 정확한 정보를 추가로 확인하시기 바랍니다.'
